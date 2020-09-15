@@ -1,5 +1,4 @@
-require 'selenium-webdriver'
-require 'capybara'
+require 'capybara/cucumber'
 require 'site_prism'
 require 'rspec'
 require 'cucumber'
